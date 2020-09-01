@@ -1,0 +1,7 @@
+Now instructions to add, commit and push
+
+git add .
+
+git commit -m 'added thank you'
+
+git push -u origin master
